@@ -1,0 +1,10 @@
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\bin\Debug\Calculator(GUI).exe.config
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\bin\Debug\Calculator(GUI).exe
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\bin\Debug\Calculator(GUI).pdb
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\obj\Debug\Calculator(GUI).csprojAssemblyReference.cache
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\obj\Debug\Calculator_GUI_.Form1.resources
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\obj\Debug\Calculator_GUI_.Properties.Resources.resources
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\obj\Debug\Calculator(GUI).csproj.GenerateResource.cache
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\obj\Debug\Calculator(GUI).csproj.CoreCompileInputs.cache
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\obj\Debug\Calculator(GUI).exe
+C:\Users\bolorundurovb\Documents\Visual Studio 2019\Projects\Calculator(GUI)\obj\Debug\Calculator(GUI).pdb
